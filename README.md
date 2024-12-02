@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Joe Maldonado</h1>
+<h1 align="left">Hello there👋, I'm Joe Maldonado</h1>
 <h3 align="left">Technical specialist with expertise in software configuration, data analysis, and client support. Skilled in testing integrations, troubleshooting issues, and automating processes to improve efficiency and reduce implementation times. Proficient in data visualization tools like Power BI with experience leading client training and collaborating with teams to achieve business goals.</h3>
 
 - 🔭 I’m currently working on **MySQL Exploratory Data**
