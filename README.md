@@ -7,11 +7,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/joe-maldonado](https://github.com/joe-maldonado)
 
-- 📫 How to reach me **joseph.dmaldon@gmail.com**
+- 📫 You can reach me at **joseph.dmaldon@gmail.com**
 
-- 📄 Know about my experiences [Work Experience](https://1drv.ms/b/c/7507e7134a97ef48/EQSaD9Z8ZqlImBU_zvyt2soB2N3ZOw9n9LH7xATQ1n55nw?e=xEXxO1)
+- 📄 Learn about my experiences — [Work Experience](https://1drv.ms/b/c/7507e7134a97ef48/EQSaD9Z8ZqlImBU_zvyt2soB2N3ZOw9n9LH7xATQ1n55nw?e=xEXxO1)
 
-- ⚡ Fun fact **I play for a local rugby team here in Charlotte**
+- ⚡ Fun fact — **I play for a local rugby team here in Charlotte**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
