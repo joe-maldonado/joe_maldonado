@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **MySQL Exploratory Data**
 
-- 🌱 I’m currently learning **Python,MS SQL**
+- 🌱 I’m currently learning **Python, MS SQL, Tableau**
 
 - 👨‍💻 All of my projects are available at [https://github.com/joe-maldonado](https://github.com/joe-maldonado)
 
